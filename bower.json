@@ -1,8 +1,8 @@
 {
-  "name": "angular-ui-select-2019",
+  "name": "angular-ui-select",
   "homepage": "https://github.com/jkjha/ui-select",
   "authors": [
-    "jkjha@live.com"
+    "AngularUI"
   ],
   "description": "AngularJS ui-select",
   "main": [

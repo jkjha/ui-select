@@ -1,13 +1,13 @@
 {
-  "name": "ui-select-2019",
+  "name": "ui-select",
   "main": "./index.js",
-  "author": "http://github.com/angular-ui/ui-select/graphs/contributors",
-  "homepage": "http://github.com/angular-ui/ui-select",
+  "author": "ui-select-developer and jkjha@live.com",
+  "homepage": "https://github.com/jkjha/ui-select",
   "repository": {
-    "url": "git://github.com/angular-ui/ui-select.git"
+    "url": "https://github.com/jkjha/ui-select"
   },
   "style": "dist/select.css",
-  "version": "0.19.9",
+  "version": "0.19.8-2019",
   "devDependencies": {
     "angular": "^1.2.18",
     "angular-mocks": "^1.2.18",

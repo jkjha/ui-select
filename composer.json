@@ -3,11 +3,11 @@
     "description": "AngularJS UI Select",
     "keywords": ["angular", "angular-ui", "select", "select2", "angularjs"],
     "type": "component",
-    "homepage": "https://github.com/angular-ui/ui-select",
+    "homepage": "https://github.com/jkjha/ui-select",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/angular-ui/ui-select/issues",
-        "wiki": "https://github.com/angular-ui/ui-select/wiki",
+        "issues": "https://github.com/jkjha/ui-select/issues",
+        "wiki": "https://github.com/jkjha/ui-select/wiki",
         "source": "https://github.com/angular-ui/ui-select"
     },
     "require": {
