@@ -1,12 +1,12 @@
 /*!
  * ui-select
  * https://github.com/jkjha/ui-select
- * Version: 0.19.9-2019 - 2019-12-12T21:42:34.370Z
+ * Version: 0.19.10-2019 - 2019-12-12T21:42:34.370Z
  * License: MIT
  */
 
 
-(function () { 
+(function () {
 "use strict";
 var KEY = {
     TAB: 9,
@@ -1614,7 +1614,7 @@ uis.directive('uiSelectMatch', ['uiSelectConfig', function(uiSelectConfig) {
       var theme = getAttribute(parent, 'theme') || uiSelectConfig.theme;
       var multi = angular.isDefined(getAttribute(parent, 'multiple'));
 
-      return theme + (multi ? '/match-multiple.tpl.html' : '/match.tpl.html');      
+      return theme + (multi ? '/match-multiple.tpl.html' : '/match.tpl.html');
     },
     link: function(scope, element, attrs, $select) {
       $select.lockChoiceExpression = attrs.uiLockChoice;
@@ -2113,7 +2113,7 @@ uis.directive('uiSelectNoChoice',
             templateUrl: function (tElement) {
                 // Needed so the uiSelect can detect the transcluded content
                 tElement.addClass('ui-select-no-choice');
-      
+
                 // Gets theme attribute from parent (ui-select)
                 var theme = tElement.parent().attr('theme') || uiSelectConfig.theme;
                 return theme + '/no-choice.tpl.html';
