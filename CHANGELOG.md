@@ -1,5 +1,5 @@
-<a name="0.19.10-2019"></a>
-## [0.19.10-2019](https://github.com/jkjha/ui-select.git/compare/v0.19.7...v0.19.10-2019) (2017-04-15)
+<a name="0.19.11-2019"></a>
+## [0.19.11-2019](https://github.com/jkjha/ui-select.git/compare/v0.19.7...v0.19.11-2019) (2017-04-15)
 
 
 
