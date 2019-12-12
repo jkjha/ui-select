@@ -707,7 +707,7 @@ describe('ui-select tests', function () {
     });
   });
 
-  // See when an item that evaluates to false (such as "false" or "no") is selected, the placeholder is shown https://github.com/angular-ui/ui-select/pull/32
+  // See when an item that evaluates to false (such as "false" or "no") is selected, the placeholder is shown https://github.com/jkjha/ui-select.git/pull/32
   it('should not display the placeholder when item evaluates to false', function () {
     scope.items = ['false'];
 

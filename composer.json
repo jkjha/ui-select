@@ -8,7 +8,7 @@
     "support": {
         "issues": "https://github.com/jkjha/ui-select/issues",
         "wiki": "https://github.com/jkjha/ui-select/wiki",
-        "source": "https://github.com/angular-ui/ui-select"
+        "source": "https://github.com/jkjha/ui-select"
     },
     "require": {
         "robloach/component-installer": "*"

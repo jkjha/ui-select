@@ -1,5 +1,5 @@
 The issues forum is __NOT__ for support requests. It is for bugs and feature requests only.
-Please read https://github.com/angular-ui/ui-select/blob/master/CONTRIBUTING.md and search
+Please read https://github.com/jkjha/ui-select.git/blob/master/CONTRIBUTING.md and search
 existing issues (both open and closed) prior to opening any new issue and ensure you follow the instructions therein.
 
 ### Bug description:
