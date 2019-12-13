@@ -31,7 +31,7 @@ var KEY = {
             return true;
         }
 
-        if (e.metaKey || e.ctrlKey || e.altKey) return true;
+        if (e.metaKey || e.altKey) return true;
 
         return false;
     },
