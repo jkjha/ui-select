@@ -1,7 +1,7 @@
 /*!
  * ui-select
  * https://github.com/jkjha/ui-select
- * Version: 0.19.12-2019 - 2019-12-12T22:05:53.833Z
+ * Version: 0.19.12-2019 - 2019-12-13T07:17:05.984Z
  * License: MIT
  */
 
@@ -316,6 +316,7 @@ body > .ui-select-bootstrap.open {
   margin: 0;
   list-style: none;
 }
+
 .ui-select-bootstrap .ui-select-header-group-selectable:hover {
     background-color: #f5f5f5;
 }
